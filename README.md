@@ -1,8 +1,10 @@
 # FUS-Robotic-Manipulator
 
 
+ 
 Please read through the FUS report first which will contain all information on development of the manipulator and assembly instructions
 
+ 
 
 The robot CAD files section contains all the components in .stl format. This was 3D printed on a Ultimaker 2+ connect printer but any other 3D printer with a sufficent build volumn could be used. The following quantities of each file is needed:
 
@@ -31,6 +33,7 @@ The robot CAD files section contains all the components in .stl format. This was
 •	1 x Ultrasonic Transducer Mount
 
 
+ 
 
 The hardware section contains an Excel spreadsheet with all the hardware which needs to be purchased including prices (UK) and non-sponsored, sourcing links.
 
