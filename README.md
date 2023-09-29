@@ -4,4 +4,4 @@ FUS report will contain all information on development of manipulator and assemb
 
 CAD file section contains all files of robot compoents in .stl format
 
-Code section contains the required Arduino codes for the project
+Robot Code section contains the required Arduino codes for the project
