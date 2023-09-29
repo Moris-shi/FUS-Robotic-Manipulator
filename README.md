@@ -5,11 +5,17 @@ Please read through the FUS report first which will contain all information on d
 
 
 The robot CAD files section contains all the components in .stl format. This was 3D printed on a Ultimaker 2+ connect printer but any other 3D printer with a sufficent build volumn could be used. The following quantities of each file is needed:
+
 •	1 x Base Mount
+
 •	1 x Stepper Motor Mount
+
 •	1 x Top Mount
+
 •	4 x Slider
+
 •	4 x Base Support Legs
+
 •	1 x Sideways Support Mount
 •	4 x Stepper Motor TB6600 Controller Mount
 •	1 x LCD Mount
