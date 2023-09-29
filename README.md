@@ -6,7 +6,8 @@ Please read through the FUS report first which will contain all information on d
 
  
 
-The robot CAD files section contains all the components in .stl format. This was 3D printed on a Ultimaker 2+ connect printer but any other 3D printer with a sufficent build volumn could be used. The following quantities of each file is needed:
+The robot CAD files section contains all the components in .stl format. This was 3D printed on a Ultimaker 2+ connect printer but any other 3D printer with a sufficent build volumn could be used. For 3D printing, import the .stl files into Ultimaker Cura available at https://ultimaker.com/software/ultimaker-cura/
+The following quantities of each file is needed:
 
 •	1 x Base Mount
 
