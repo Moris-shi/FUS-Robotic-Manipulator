@@ -2,7 +2,7 @@
 
 
  
-Please read through the FUS report first which will contain all information on development of the manipulator and assembly instructions
+Please refer to the project abstract and FUS report first which contains all information on development of the manipulator and assembly instructions
 
  
 
