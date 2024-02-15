@@ -47,3 +47,5 @@ Any questions please contact me at zcemxsh@ucl.ac.uk
 I would also love to hear if any replications or improvements have been made
 
 Thank you for taking the time to check out this project
+
+This project is completed as part of the Charles Steger ACCESS FUS internship with generous funding from the Focused Ultrasound Foundation.
