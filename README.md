@@ -1,6 +1,6 @@
 # FUS-Robotic-Manipulator
 
-
+![image alt](https://github.com/Moris-shi/FUS-Robotic-Manipulator/blob/main/Robot_Manipulator.jpg?raw=true)
  
 Please refer to the project abstract and FUS report first which contains all information on development of the manipulator and assembly instructions
 
